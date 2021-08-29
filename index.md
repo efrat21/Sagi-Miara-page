@@ -1,5 +1,6 @@
 # Sagi Miyara
 ## games, loqwize and travel 
+![sagi profile picture](https://github.com/efrat21/Sagi-Miara-page/)
 
 You can use the [editor on GitHub](https://github.com/efrat21/Sagi-Miara-page/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
