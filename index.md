@@ -1,4 +1,5 @@
-## Welcome to GitHub Pages
+# Sagi Miyara
+## games, loqwize and travel 
 
 You can use the [editor on GitHub](https://github.com/efrat21/Sagi-Miara-page/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
