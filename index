@@ -1,0 +1,19 @@
+<head>
+<head/>
+<body>
+<div id="contact">
+        <h2>Get in Touch</h2>
+        <div id="contact-form">
+<form action="https://formspree.io/f/myyllknb" method="POST">
+  <label>
+    Your email:
+    <input type="email" name="_replyto">
+  </label>
+  <label>
+    Your message:
+    <textarea name="message"></textarea>
+  </label>
+  <!-- your other form fields go here -->
+  <button type="submit">Send</button>
+</form>
+</body>
